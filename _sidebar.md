@@ -1,0 +1,5 @@
+* [Education](education.md)
+* [Worklife](work.md)
+* [Open source](opensource.md)
+* [Prices](prices.md)
+* [Skills](skills.md)
