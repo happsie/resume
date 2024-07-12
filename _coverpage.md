@@ -2,7 +2,7 @@
 
 > Fullstack Developer
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/happsie)
 [Read More](#about)
 
 ![color](#bcf5ba)
